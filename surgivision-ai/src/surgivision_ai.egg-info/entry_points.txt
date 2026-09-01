@@ -1,2 +1,0 @@
-[console_scripts]
-surgivision-demo = surgivision.demo:main
